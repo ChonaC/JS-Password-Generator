@@ -22,5 +22,5 @@ Image below allows the user to see the final product.
 
 ## Final product
 ```
-Im not sure how to deploy application
+Deployed on https://chonac.github.io/JS-Password-Generator/
 ```
